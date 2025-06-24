@@ -9,5 +9,5 @@ Examine a packet capture file containing a user's recent network activity and pr
 
 Tools Used:
 - Wireshark
-- xdd command
+- `xdd` command
 - CyberChef
